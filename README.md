@@ -1,3 +1,14 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · acg-faka**
+
+[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/acg-faka)
+
+> 本仓库是 0xfaheng 使用或维护的 Fork。原项目来源：[lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)。原作者署名和许可证保留，使用须遵循原项目许可。
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 <p align="center">
   <a href="https://github.com/lairulan/acg-faka">
     <img src="./favicon.ico" width="120" height="120" style="border-radius: 20px;" alt="悉檀AI">
