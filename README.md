@@ -3,18 +3,18 @@
 
 > 0xfaheng · 上海封阳科技创始人
 
-[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/acg-faka)
+[品牌主页与全部公开项目](https://github.com/0xfaheng) · [当前仓库](https://github.com/0xfaheng/acg-faka)
 
 > 本仓库是 0xfaheng 使用或维护的 Fork。原项目来源：[lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)。原作者署名和许可证保留，使用须遵循原项目许可。
 
-微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/lairulan#联系与关注)
+微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/0xfaheng#联系与关注)
 
 <!-- 0xfaheng-brand:end -->
 
 ---
 
 <p align="center">
-  <a href="https://github.com/lairulan/acg-faka">
+  <a href="https://github.com/0xfaheng/acg-faka">
     <img src="./favicon.ico" width="120" height="120" style="border-radius: 20px;" alt="悉檀AI">
   </a>
 </p>
@@ -67,7 +67,7 @@
 ## 安装教程
 
 - 在安装之前，请检查你的系统环境，`php>=8.0`，`MySQL版本>=5.6[不推荐5.6后续升级可能会有问题，推荐5.7或者8.0]`，因为使用了大量的PHP8注解以及PHP8的新特性，所以php版本不得不从8.0起，这里还需要注意。
-- 将源码下载至你的服务器：`git clone https://github.com/lairulan/acg-faka.git`
+- 将源码下载至你的服务器：`git clone https://github.com/0xfaheng/acg-faka.git`
 - 以上步骤完成后，然后配置伪静态，Apache无需配置，根目录已经有.htaccess文件了，但如果你是Nginx，则需要配置伪静态。
 - 下面是Nginx伪静态规则：
 ```
